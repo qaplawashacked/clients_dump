@@ -2,7 +2,7 @@
 
 Qapla was hacked:
 
-Ticchioni Sport srl
+```Ticchioni Sport srl
 1604lab S.r.l.
 1892Vermut
 20100 SRL
@@ -1263,3 +1263,4 @@ Zampa
 Zappingstore ferramenta online
 Zavix Technology SRLS
 Zem s.a.s di Porchia Flavio e c.
+```
